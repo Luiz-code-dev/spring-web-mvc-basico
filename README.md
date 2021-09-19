@@ -1,34 +1,4 @@
 # O que é Spring
-**Spring Framework**
-
-Complemento ao Java EE. Não é uma implmentação. Integração com algumas especificações
-
-   Container de Inversão de Controle - Inversion of Control (IoC)
-
-   Injeção de Dependência - dependency injection (DI) : @Autowired
-
-   Spring Beans : @Bean : Um Objeto que será gerenciado pelo IoC Container
-
-   org.springframework.context.ApplicationContext : Representa IoC container e é responsavel instanciar, configurar e cosntruir esses beans.
-
-   5.0.6
-
-  Spring?s Aspect-Oriented Programming (AOP)
-
-  Spring Web MVC
-
-  Spring WebFlux ^5.0
-       <a href="http://www.reactive-streams.org"></a> - SPEC (https://github.com/reactive-streams/reactive-streams-jvm)
-       http://projectreactor.io - IMPL (Reactor is a Reactive Streams library)
-       http://reactivex.io - IMPL (https://github.com/ReactiveX/RxJava)
-
-   https://spring.io/projects/spring-framework#learn
-
-   https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html
-   https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html
-</div>
-
-# O que é Spring
 
 ## Spring Framework
 
